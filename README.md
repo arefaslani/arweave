@@ -1,3 +1,5 @@
+# The project moved to License Rocks open source community: https://github.com/LicenseRocks/arweave-ruby
+
 # Arweave Ruby SDK
 Ruby flavoured Arweave
 
